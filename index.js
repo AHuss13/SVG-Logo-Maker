@@ -48,7 +48,7 @@ async function makeLogo() {
     const svgString = `
       <svg xmlns= width="300" height="200">
         ${shape.render()}
-        <text x="150" y="150" font-size="30" fill="${
+        <text x="150" y="150" font-size="60" fill="${
           userInput.textColor
         }" text-anchor="middle">${userInput.text}</text>
       </svg>
