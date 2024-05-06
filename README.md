@@ -10,7 +10,7 @@ Clone repository and then run `npm install` or `pnpm install` in the terminal.
 
 ## Usage
 
-Run `node index.js` in the terminal and then input desired characteristics.
+Run `npm start`, `pnpm start`, or `node index.js` in the terminal and then input desired characteristics.
 
 ## License
 
