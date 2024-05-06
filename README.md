@@ -12,6 +12,8 @@ Clone repository and then run `npm install` or `pnpm install` in the terminal.
 
 Run `npm start`, `pnpm start`, or `node index.js` in the terminal and then input desired characteristics.
 
+[Walkthrough Video](./Walkthrough/logo.svg%20(Untracked)%20(logo.svg)%20-%20Challenge%2010%20(SVG-Logo-Maker)%20-%20Visual%20Studio%20Code%202024-05-05%2019-43-31.mp4)
+
 ## License
 
 MIT License
